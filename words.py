@@ -1,0 +1,2 @@
+# modification 1
+words = ["Kwantlen", "Rai", "Zimmerman", "Jaden", "School", "Homework", "Mudae", "Anime", "Python", "Video games", "Computer", "Art",  "Humongous", "Shanks", "Vanossgaming", "Haircut", "Philippines", "Vancouver", "Nasus", "League of legends"] 
